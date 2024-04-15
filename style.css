@@ -14,7 +14,7 @@ header{
 }
 
 .cabecalho-imagem{
-    width: 20%;
+    width: 25%;
 }
 
 .cabecalho-lista-item{
@@ -22,4 +22,17 @@ header{
     margin: 0 16px;
     padding: 24px 0;
     font-size: 24px;
+}
+
+.escola {
+    background-image: linear-gradient(#38358, #00c0eb);
+    color: white;
+    display:flex;
+    justify-content: center;
+    padding: 24px 0;
+
+}
+
+.escola-conteudo{
+    width: 35%;
 }
