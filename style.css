@@ -36,3 +36,11 @@ header{
 .escola-conteudo{
     width: 35%;
 }
+
+body{
+    font-family:’Poppins’,sans-serif;
+    }
+
+    .estudante-imagem{
+        width: 120px;
+    }
